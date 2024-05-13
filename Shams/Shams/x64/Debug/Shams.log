@@ -1,0 +1,5 @@
+﻿  ShamsA.cpp
+C:\Users\Belk-Electronics\Source\Repos\Shams\Shams\ShamsA.cpp(42,11): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\Belk-Electronics\Source\Repos\Shams\Shams\ShamsA.cpp(78,11): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\Belk-Electronics\Source\Repos\Shams\Shams\ShamsA.cpp(144,24): warning C4129: 's': unrecognized character escape sequence
+  Shams.vcxproj -> C:\Users\Belk-Electronics\Source\Repos\Shams\x64\Debug\Shams.exe
